@@ -1,0 +1,3 @@
+Different biheviour plugins for JS objects. Initialize in contructor like "actAsConfigurable.apply( this, arguments );"
+
+Some plugins not pure!  jQuery or jQuery UI used inside. Be careful. (Or should I say BEWARE!!1)
